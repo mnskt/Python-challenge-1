@@ -43,5 +43,3 @@ while isRunning == True:
   elif compareB_follow < compareA_follow:
     score+=1
     print(score)
-
-  print("testest")
